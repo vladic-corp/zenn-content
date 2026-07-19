@@ -4,3 +4,5 @@ Zenn（zenn.dev）の記事リポジトリ。[Zenn GitHub連携](https://zenn.de
 
 - `published: true` の記事が公開対象
 - スラッグ = ファイル名（12〜50字・半角英数とハイフン）
+
+<!-- deploy: 2026-07-19 -->
