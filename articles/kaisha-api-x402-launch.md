@@ -65,6 +65,6 @@ MCP対応クライアント（Claude Code等）なら1行です：
 claude mcp add kaisha -e EVM_PRIVATE_KEY=0x<USDC入りBase財布> -- npx -y kaisha-mcp
 ```
 
-パッケージはこちら：https://www.npmjs.com/package/kaisha-mcp
+ソース：https://github.com/vladic-corp/kaisha-mcp ／ npm：https://www.npmjs.com/package/kaisha-mcp
 
 質問・感想歓迎です。特に「エージェントに買わせたい日本のデータ」のアイデアがあれば聞きたいです。
