@@ -3,7 +3,7 @@ title: "AIエージェントに領収書を読ませる — OCR×インボイス
 emoji: "🧾"
 type: "tech"
 topics: ["x402", "ai", "azure", "cloudflare", "個人開発"]
-published: false
+published: true
 ---
 
 前回、AIエージェント向けに日本の法人データを従量課金で売るAPI（[Kaisha API](https://kaisha-api.hp-vladic.workers.dev)）を公開した個人開発者です。今回はその第2弾として、**日本の請求書・領収書をOCRして、インボイス登録番号の実在照合までワンコールで返すAPI**を作りました。構想から本番稼働まで1日です。
